@@ -3,7 +3,7 @@ function Profile(){
     return(
         <div className="layout">
             <img src="assets/img1.jpg" alt="Profile"/>
-            <h1 className="name">test 1 2 3</h1>
+            <h1 className="name">Pavadol Dechasidphaisan</h1>
             <hr></hr>
         </div>
     )

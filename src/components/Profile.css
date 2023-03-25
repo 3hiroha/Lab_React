@@ -12,7 +12,7 @@ img{
 }
 
 .name{
-    font-size: 2rem;
+    font-size: 1.9rem;
     font-weight: 500;
     margin: 20px;
     color: #727373;
@@ -24,4 +24,4 @@ hr{
     height: 5px;
     border-radius: 20px;
     border: none 0;
-}
+} 
